@@ -1,0 +1,15 @@
+.courseImage {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    }
+    div {
+    margin: 10 auto;background-color:aquamarine;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0.5;
+    }
+    div:hover {
+    opacity: 1;
+    }
